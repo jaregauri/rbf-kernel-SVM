@@ -5,12 +5,6 @@ Created on Thu Aug 27 16:59:11 2020
 @author: Gauri
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 26 17:55:18 2020
-
-@author: Gauri
-"""
 
 import numpy as np
 import pandas as pd 
